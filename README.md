@@ -1,17 +1,15 @@
-### Hi there 👋 I'm Kakise
+### Hi there 👋 I'm AustinZhu
 ---
 
-- 🔭 I’m currently working on REST APIs and CRM developpment
-- 🌱 I’m currently learning system programming in C++
-- 💬 Ask me about mathematical calculus in C++
+- 🔭 I’m currently working on Backend/Infra development
+- 🌱 I’m currently learning PLT and Category Theory
 - 📫 How to reach me: [Twitter](https://twitter.com/austinzhu123)
 - 😄 Pronouns: He/Him
-- 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AustinZhu&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AustinZhu&column=8&theme=algolia&no-frame=true&no-bg=true"/>
 </a>
 
 
