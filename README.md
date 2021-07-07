@@ -9,4 +9,3 @@
 ### 📊 GitHub Stats:
 ---
 ![](https://github-readme-stats.vercel.app/api?username=AustinZhu&theme=algolia&show_icons=true&count_private=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AustinZhu&theme=github_dark)
