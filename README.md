@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I'm Kakise
+---
 
-<!--
-**AustinZhu/AustinZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on REST APIs and CRM developpment
+- 🌱 I’m currently learning system programming in C++
+- 💬 Ask me about mathematical calculus in C++
+- 📫 How to reach me: [Twitter](https://twitter.com/austinzhu123)
+- 😄 Pronouns: He/Him
+- 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
-Here are some ideas to get you started:
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AustinZhu&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats:
+---
+![AustinZhu github stats](https://github-readme-stats.vercel.app/api?username=AustinZhu&theme=algolia&show_icons=true&count_private=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AustinZhu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AustinZhu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AustinZhu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AustinZhu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AustinZhu&theme=github_dark)
