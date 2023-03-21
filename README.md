@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm AustinZhu
 ---
 
-- 🔭 I’m currently working on Backend/Infra development
-- 🌱 I’m currently learning PLT and Category Theory
+- 🔭 I’m currently working on Web3/Backend/Infra development
+- 🌱 I’m currently learning ZK
 - 📫 How to reach me: [Twitter](https://twitter.com/austinzhu123)
 - 😄 Pronouns: He/Him
 
