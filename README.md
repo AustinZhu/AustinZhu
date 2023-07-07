@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I’m currently working on Web3/Backend/Infra development
-- 🌱 I’m currently learning ZK
+- 🌱 I’m currently learning latest AI tech
 - 📫 How to reach me: [Twitter](https://twitter.com/austinzhu123)
 - 😄 Pronouns: He/Him
 
