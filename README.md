@@ -13,14 +13,6 @@
 </li>
 </ul>
 <br>
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yiming-zhu-622a98152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="32" width="48"></a>
-  <a href="https://fb.com/austinzhu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam pithen wala" height="32" width="48"></a>
-  <a href="https://instagram.com/austinzhu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="32" width="48"></a>
- <a href="https://x.com/austinzhu123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="32" width="48"></a>
-</p>
-<br>
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="32" width="48" />
