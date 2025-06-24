@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin Zhu</h1>
+<h2 align="center">Hi 👋, I'm Austin Zhu</h2>
 <p align="right"> </p><h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=AustinZhu&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="AustinZhu">
 <ul>
 <li>
