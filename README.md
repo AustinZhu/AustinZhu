@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Austin Zhu</h1>
-<br>
 <p align="right"> </p><h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=AustinZhu&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="AustinZhu">
 <ul>
 <li>
@@ -12,7 +11,6 @@
 <p>📫 How to reach me <strong><a href="mailto:austinzhu666@gmail.com">austinzhu666@gmail.com</a></strong></p>
 </li>
 </ul>
-<br>
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="32" width="48" />
@@ -69,9 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="32" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="32" width="48" />
 </p>
-<br>
 <h3>Statistical Data</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinZhu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="AustinZhu Languages" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AustinZhu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" height="192" alt="AustinZhu Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinZhu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="AustinZhu Languages" height="144" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AustinZhu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" height="144" alt="AustinZhu Stats" />
 </div>
