@@ -78,5 +78,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinZhu&show_icons=true&locale=en&theme=transparent&layout=compact" alt="AustinZhu Languages" height="144" />
   <img src="https://github-readme-stats.vercel.app/api?username=AustinZhu&show_icons=true&locale=en&theme=transparent&count_private=true" height="144" alt="AustinZhu Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AustinZhu" height="144" alt="AustinZhu Stats" />
 </div>
